@@ -1,4 +1,4 @@
-STEP1
+STEP1 基本HTML作成
 PCブラウザ向けの幻想的なマッチ3パズルゲームを、index.html 1ファイルだけで作成してください。
 
 条件：
@@ -18,7 +18,7 @@ PCブラウザ向けの幻想的なマッチ3パズルゲームを、index.html 
 
 index.html の完全版を出力してください。
 
-STEP2
+STEP2　背景・UIデザイン
 現在の index.html に対して、幻想的な宇宙・プラネタリウム風デザインを追加してください。
 
 条件：
@@ -35,7 +35,7 @@ STEP2
 
 変更後の index.html 完全版を出力してください。
 
-STEP3
+STEP3　盤面作成
 現在の index.html に、JavaScriptで8×8の盤面生成機能を追加してください。
 
 条件：
@@ -49,7 +49,7 @@ STEP3
 
 変更後の index.html 完全版を出力してください。
 
-STEP4
+STEP4　交換システム
 現在の index.html に、オーブ交換機能を追加してください。
 
 条件：
@@ -62,7 +62,7 @@ STEP4
 
 変更後の index.html 完全版を出力してください。
 
-STEP5
+STEP5　マッチ判定
 現在の index.html に、マッチ判定機能を追加してください。
 
 条件：
@@ -76,7 +76,7 @@ STEP5
 
 変更後の index.html 完全版を出力してください。
 
-STEP6
+STEP6　落下処理
 現在の index.html に、落下処理を追加してください。
 
 条件：
@@ -88,7 +88,7 @@ STEP6
 
 変更後の index.html 完全版を出力してください。
 
-STEP7
+STEP7　コンボ・演出
 現在の index.html に、幻想的なコンボ演出を追加してください。
 
 条件：
@@ -101,7 +101,7 @@ STEP7
 
 変更後の index.html 完全版を出力してください。
 
-STEP8
+STEP8　特殊オーブ
 現在の index.html に特殊オーブ機能を追加してください。
 
 条件：
